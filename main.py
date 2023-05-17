@@ -2,6 +2,7 @@ from tkinter import *
 import string
 import random
 
+# adding comments 
 root = Tk()
 root.geometry('400x200')
 
